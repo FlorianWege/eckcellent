@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eckcellent.iml" filepath="$PROJECT_DIR$/eckcellent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eckcellent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eckcellent_main.iml" group="eckcellent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eckcellent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eckcellent_test.iml" group="eckcellent" />
+    </modules>
+  </component>
+</project>
